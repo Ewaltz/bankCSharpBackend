@@ -15,7 +15,6 @@ namespace Bank
         {
             string input;
             //testUser();
-            //testTable();
             userList = new Hashtable();
             Console.WriteLine("Welcome");
             Console.WriteLine("/help for more information");
@@ -27,7 +26,7 @@ namespace Bank
                 if(input == "serverShut3324") //random shutdown sequence
                 {
                     Console.WriteLine("Server Shutting Down, Good Bye.");
-                    testTable();
+                    //testTable(); //check userList (test)
                     break;
                 }else if (input == "/create")
                 {
@@ -59,8 +58,8 @@ namespace Bank
             string[] messages;
             if(location == "mainMenu"){
                 messages = new string[] { "\t/create -registers a new account",
-                                        "\t/login - login user",
-                                        "\t/help - display usable commands" 
+                                        "\t/login -login user",
+                                        "\t/help -display usable commands" 
                                         };
             }else{
                 messages = new string[] { "\t/deposit -deposit money to account",
