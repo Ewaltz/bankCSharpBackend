@@ -1,0 +1,11 @@
+/Users/kuro/Desktop/Bank/bin/Debug/netcoreapp2.2/Bank.deps.json
+/Users/kuro/Desktop/Bank/bin/Debug/netcoreapp2.2/Bank.runtimeconfig.json
+/Users/kuro/Desktop/Bank/bin/Debug/netcoreapp2.2/Bank.runtimeconfig.dev.json
+/Users/kuro/Desktop/Bank/bin/Debug/netcoreapp2.2/Bank.dll
+/Users/kuro/Desktop/Bank/bin/Debug/netcoreapp2.2/Bank.pdb
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.csprojAssemblyReference.cache
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.csproj.CoreCompileInputs.cache
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.AssemblyInfoInputs.cache
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.AssemblyInfo.cs
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.dll
+/Users/kuro/Desktop/Bank/obj/Debug/netcoreapp2.2/Bank.pdb
