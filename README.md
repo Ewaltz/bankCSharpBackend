@@ -8,3 +8,8 @@ You have been tasked with writing the world’s greatest banking ledger. Please 
 * Check balance
 * See transaction history
 * Log out
+
+> * To run, open in Visual Studio Code
+> * (Visual Studio Code Menu) view -> Terminal
+> * (Visual Studio Code Terminal) Type: 'dotnet run'
+> * To stop programm (Visual Studio Code Terminal): Ctrl+c
